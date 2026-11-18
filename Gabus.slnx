@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Gabus/Gabus.vcxproj" Id="2d42857f-d565-4c32-97a3-b3c0dec2df86" />
+</Solution>
